@@ -100,7 +100,7 @@ This is a full-stack weight loss application built with TypeScript, React, Expre
 - **Runtime**: Node.js 20 via Replit
 - **Database**: PostgreSQL 16 provision
 - **Hot Reload**: Vite HMR for frontend changes
-- **Server Restart**: tsx watch mode for backend changes
+- **Server Restart**: tsx run for backend (manual restart)
 
 ### Production Build
 - **Frontend**: Vite production build to `dist/public`
